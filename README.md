@@ -70,7 +70,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/AkshayMankar30">
+  <a href="https://github.com/AkshayMankar030">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
   <a href="https://www.linkedin.com/in/akshay-mankar-628693193/">
